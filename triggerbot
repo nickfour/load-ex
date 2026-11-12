@@ -10,7 +10,7 @@ local Camera = workspace.CurrentCamera
 -- ==========================================
 local Config = {
     Active = true,
-    ESPActive = false, -- 🔥 เปลี่ยนเป็น false (ปิด ESP เป็นค่าเริ่มต้น)
+    ESPActive = false, -- ปิด ESP ค่าเริ่มต้น
     WallCheck = true,
     FireDelay = 0.04,
     MaxRange = 9999,
